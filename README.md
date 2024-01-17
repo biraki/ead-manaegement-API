@@ -1,4 +1,4 @@
-# M5 - Projeto Final Kanvas
+# EAD management API
 
 ## Preparando ambiente para execução dos testes
 
